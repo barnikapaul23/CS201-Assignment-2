@@ -5,7 +5,7 @@ int main()
     while(1)
     {
         int choice;
-        printf("Select a choice: \n 1. Addition \n 2. Multiplication \n 3. Exit");
+        printf("Select a choice: \n 1. Addition \n 2. Multiplication \n 3. Exit \n");
         printf("Enter your choice: ");
         scanf("%d",&choice);
         if(choice==1)
